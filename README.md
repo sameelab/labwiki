@@ -7,3 +7,5 @@ This is the Samee Lab wiki; please go to the wiki tab or [click here](https://gi
 [**Home**](https://github.com/sameelab/labwiki/wiki)
 
 [**Omics data**](https://github.com/sameelab/labwiki/wiki/Omics-data)
+
+[**Tools and packages**](https://github.com/sameelab/labwiki/wiki/Tools-and-packages)
